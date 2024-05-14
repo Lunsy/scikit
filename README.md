@@ -1,1 +1,1 @@
-This is jupyter-lab's project, This project uses data from a survey of passengers from an airline, on which a machine model is trained and makes model predictions
+This is jupyter-lab's projects, first project uses data from a survey of passengers from an airline, on which a machine model is trained and makes model predictions about passengers, second project uses age, type of transport data and etc, for machine learning and akes model predictions about favorite type of transports in each age
