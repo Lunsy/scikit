@@ -1,1 +1,1 @@
-This is Machine Learning project, The data included age, gender, earnings, and type of transport. And analytics were built on them, is there a related between them? and what age, what type of transport do they prefer?
+
